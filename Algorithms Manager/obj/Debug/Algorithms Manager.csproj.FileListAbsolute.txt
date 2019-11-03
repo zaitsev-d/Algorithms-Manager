@@ -1,0 +1,7 @@
+E:\Workspace\C#\Algorithms Manager\Algorithms Manager\bin\Debug\Algorithms Manager.exe.config
+E:\Workspace\C#\Algorithms Manager\Algorithms Manager\bin\Debug\Algorithms Manager.exe
+E:\Workspace\C#\Algorithms Manager\Algorithms Manager\bin\Debug\Algorithms Manager.pdb
+E:\Workspace\C#\Algorithms Manager\Algorithms Manager\obj\Debug\Algorithms Manager.csprojAssemblyReference.cache
+E:\Workspace\C#\Algorithms Manager\Algorithms Manager\obj\Debug\Algorithms Manager.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\Algorithms Manager\Algorithms Manager\obj\Debug\Algorithms Manager.exe
+E:\Workspace\C#\Algorithms Manager\Algorithms Manager\obj\Debug\Algorithms Manager.pdb
